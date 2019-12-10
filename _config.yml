@@ -1,11 +1,11 @@
 # Site settings
-author: Ayako Wiltshire
-title: 
+author: Ayako J Wiltshire
+title: Path To Becoming a Software Engineer
 header-img: img/home-bg.png
 email: awittyl44@gmail.com
-copyright_name: Ayako Wiltshire
+copyright_name: Ayako J Wiltshire
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I choose to be a Software Engineer?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Uchoosecode
